@@ -1,4 +1,4 @@
-# SyntaxShield---AI-powered-Financial-Simulator
+# SyntaxShield---CodeQualityAnalyzer
 
 
 Overview
